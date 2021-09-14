@@ -342,7 +342,7 @@ cursos_prouni %>%
   arrange(desc(cv))
 ```
   
-  *Resposta:* Apos analise,o curso que apresentou uma menor homogeneidade na nota integral ampla é o Curso a Distância
+  *Resposta:* Após analise,o curso que apresentou uma menor homogeneidade na nota integral ampla é o Curso a Distância
   
   d. Faça um gráfico de densidade dessas notas, facetando-as nos turnos. Esse gráfico também serviria para comparar as notas por turno? Explique.
 
